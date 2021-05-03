@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftBorder
+  - RightBorder
+  - Shield
+  - Cannon
+  - Bullet
+  - EnemyTank
+  - EnemyTankxx
+  - FxTemporaire
+  - Jet
+  - TriggerGameOver
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - smoke
+  - bar
+  - particles
+  - tank icon
+  - Gameover
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: secondlayer
+    uniqueID: 529347851
+    locked: 0
+  - name: thirdlayer
+    uniqueID: 3549155005
+    locked: 0
+  - name: forthlayer
+    uniqueID: 300247093
+    locked: 0
+  - name: fifthlayer
+    uniqueID: 181401095
+    locked: 0
+  - name: sixthlayer
+    uniqueID: 1163579865
+    locked: 0
+  - name: gameover
+    uniqueID: 4269766479
+    locked: 0
+  - name: addition
+    uniqueID: 3330806067
+    locked: 0
