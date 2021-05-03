@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "fbdb28ae-16ab-437a-ad8a-212e261c2f2d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1000,
+  "height": 129,
+  "platformSettings": {},
+  "subMetas": {
+    "progress-bar-for-games-vector-13458538-removebg-preview (1)": {
+      "ver": "1.0.4",
+      "uuid": "27d40798-428f-49c8-833b-e5bc0dc67100",
+      "rawTextureUuid": "fbdb28ae-16ab-437a-ad8a-212e261c2f2d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -8,
+      "trimX": 179,
+      "trimY": 36,
+      "width": 642,
+      "height": 73,
+      "rawWidth": 1000,
+      "rawHeight": 129,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

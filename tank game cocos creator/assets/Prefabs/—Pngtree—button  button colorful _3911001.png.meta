@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c619d354-8dbc-4c96-8164-7ebf434f29c3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 800,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "—Pngtree—button  button colorful _3911001": {
+      "ver": "1.0.4",
+      "uuid": "ac490277-b153-4780-9276-04df1aed6b13",
+      "rawTextureUuid": "c619d354-8dbc-4c96-8164-7ebf434f29c3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 3,
+      "trimX": 40,
+      "trimY": 40,
+      "width": 721,
+      "height": 321,
+      "rawWidth": 800,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
