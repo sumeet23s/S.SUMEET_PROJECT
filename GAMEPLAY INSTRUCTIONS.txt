@@ -1,0 +1,11 @@
+TANK GAME UNITY ENGINE-
+
+1. use the left or right movement button on screen to move the player or use 'A' for left and 'D' for right direction.
+2. Tap on screen anywhere to shoot.
+3. Wait for the reloading to shoot.
+
+
+TANK GAME COCOS CREATOR
+1.To move the player use 'A' for left and 'D' for right direction
+2.Wait for the reloading to shoot.
+3.Tap on screen anywhere to shoot.
